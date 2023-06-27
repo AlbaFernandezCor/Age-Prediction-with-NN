@@ -1,0 +1,7 @@
+PyTorch Version: 2.0.0+cu117
+CUDA device available: True
+Using CUDA device: cuda:0
+Random Seed: 1
+Output Path: ./AgePrediction/sortides/predictions
+Script: /home/xnmaster/projecte/AgePrediction/main.py
+Epoch: 001/005 | Batch 0000/0448 | Cost: 3.1295
